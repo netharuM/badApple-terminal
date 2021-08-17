@@ -1,3 +1,9 @@
+"""
+created by netharu
+ig : @netharu_methmitha
+github @netharuM
+
+"""
 import os
 import sys
 import cv2
